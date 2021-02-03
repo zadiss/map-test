@@ -77,33 +77,28 @@
                      "name":"",
                      "objects":[
                             {
-                             "height":32.548787699586,
+                             "height":32.0033331541315,
                              "id":3,
-                             "name":"",
+                             "name":"Collision mur",
                              "rotation":0,
                              "type":"",
                              "visible":true,
                              "width":10.408042578356,
                              "x":10.8811354228267,
                              "y":0
-                            }, 
-                            {
-                             "height":0.0946185688941412,
-                             "id":5,
-                             "name":"",
-                             "rotation":0,
-                             "type":"",
-                             "visible":true,
-                             "width":0,
-                             "x":12.5842696629213,
-                             "y":42.1052631578947
                             }],
                      "opacity":1,
                      "type":"objectgroup",
                      "visible":true,
                      "x":0,
                      "y":0
-                    }
+                    },
+                 "properties":[
+                        {
+                         "name":"Collision",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }],
