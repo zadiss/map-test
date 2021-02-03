@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":100,
  "infinite":false,
  "layers":[
@@ -73,13 +80,19 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":3,
+                     "id":2,
                      "name":"",
                      "objects":[
                             {
                              "height":32.0033331541315,
                              "id":3,
                              "name":"Collision mur",
+                             "properties":[
+                                    {
+                                     "name":"Collision",
+                                     "type":"bool",
+                                     "value":true
+                                    }],
                              "rotation":0,
                              "type":"",
                              "visible":true,
