@@ -80,6 +80,7 @@
                  "objectgroup":
                     {
                      "draworder":"index",
+                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -88,7 +89,7 @@
                              "name":"Collision mur",
                              "properties":[
                                     {
-                                     "name":"Collision",
+                                     "name":"collides",
                                      "type":"bool",
                                      "value":true
                                     }],
