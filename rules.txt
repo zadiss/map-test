@@ -1,3 +1,3 @@
-rules_office-eleventh_ground_automne.tmx
-rules_office-eleventh_ground-med_automne.tmx
-rules_office-eleventh_ground-top_automne.tmx
+rules_office-eleventh_ground_hiver.tmx
+rules_office-eleventh_ground-med_hiver.tmx
+rules_office-eleventh_ground-top_hiver.tmx
